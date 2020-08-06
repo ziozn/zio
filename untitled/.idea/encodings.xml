@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/函数的定义/公约（倍）数.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/函数的定义/阶乘.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/逻辑/回文数.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/逻辑/斐波那契数列.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/逻辑/猜大小.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
